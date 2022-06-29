@@ -14,3 +14,6 @@ Growth mindset is freedom. Effort is required to build new skills. You strive in
 1. Anything is achievable when you put your mind and work into it.
 2. Help yourself first before helping others.
 3. Never make fun of someone, you may later be going throught the same things.
+
+
+For my live Github profile, please vsit the following link: 
