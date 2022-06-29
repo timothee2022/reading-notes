@@ -9,4 +9,8 @@ Hello, thank you for visiting my page. My name is Timothee Odushina. I am a U.S.
 
 ![image](https://user-images.githubusercontent.com/108295374/176358139-9c63ace2-e731-4b4c-886a-cf172295743b.png)
 
+Growth mindset is freedom. Effort is required to build new skills. You strive in challenge and only see the positive way of things. Here are my favorite growth mindset I strive to use at all time:
 
+1. Anything is achievable when you put your mind and work into it.
+2. Help yourself first before helping others.
+3. Never make fun of someone, you may later be going throught the same things.
