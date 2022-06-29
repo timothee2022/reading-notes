@@ -16,4 +16,4 @@ Growth mindset is freedom. Effort is required to build new skills. You strive in
 3. Never make fun of someone, you may later be going throught the same things.
 
 
-For my live Github profile, please vsit the following link: 
+For my live Github profile, please vsit the following link: https://timothee2022.github.io/reading-notes/
