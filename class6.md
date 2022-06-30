@@ -19,3 +19,5 @@ This is called hoisting. The scope of a variable declared is global
 * Using const: are block-scoped, much like variables defined using the let keyword. 
 The value of a constant can't be changed through reassignment, and it can't be redeclared.
 * Using nothing: Declares a function with the specified parameters.
+
+Here is the link to my website: https://github.com/timothee2022
